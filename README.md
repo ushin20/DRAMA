@@ -4,7 +4,9 @@ PyTorch implementation of the KDD 2026 paper **“Drift-Aware Memory-Augmented S
 
 This repository provides the official implementation of DRAMA for anomaly detection on ICS and telemetry benchmarks, including **SWaT**, **WADI**, **SMAP**, and **MSL**. DRAMA combines reconstruction-based detection, memory-based temporal retrieval, topology-guided spatial attention, and drift-aware spatio-temporal fusion.
 
-![DRAMA framework overview](figures/drama.png)
+<p align="center">
+  <img src="figures/drama.png" alt="DRAMA framework overview" width="80%">
+</p>
 
 ## Quickstart
 
